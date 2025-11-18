@@ -176,7 +176,7 @@ aws iam get-policy-version \
 
 ## 🏗️ Considerações Finais da Arquitetura
 
-O laboratório utilizou uma **instância Amazon EC2 (Red Hat)** dentro de uma **VPC**, acessada por **SSH**, onde a **AWS CLI** foi instalada e configurada com um usuário IAM criado exclusivamente para o exercício.
+O laboratório utilizou uma **instância Amazon EC2 (Red Hat)** dentro de uma **VPC**, acessada por **SSH**, onde a **AWS CLI** foi instalada e configurada com um usuário IAM criado exclusivamente para a prática.
 
 Esse ambiente permitiu validar o uso da CLI, aplicar políticas de laboratório e entender, na prática, como permissões impactam os comandos executados na AWS.
 
