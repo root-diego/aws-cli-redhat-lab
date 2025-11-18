@@ -115,7 +115,7 @@ No Console da AWS:
   
 ![credenciais](imagens/05-credenciais-acesso.png)
 
-* Acessar a política em formato JSON pelo console para comparação posterior
+* ◀️ Acessar a política em formato JSON pelo console para comparação posterior
 
 ---
 
