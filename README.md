@@ -168,7 +168,7 @@ aws iam get-policy-version \
   --version-id v1 > lab_policy.json
 ```
 
-Arquivo `lab_policy.json` salvo no repositório.
+⬇️ Arquivo `lab_policy.json` salvo no repositório.
 
 ![download política](imagens/09-download-policy.png)
 
